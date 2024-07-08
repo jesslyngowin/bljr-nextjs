@@ -1,2 +1,2 @@
 # bljr-nextjs
-buat bljr next.js
+buat belajar next.js
